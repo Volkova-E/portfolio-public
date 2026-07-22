@@ -61,6 +61,7 @@ Python · Pandas · NumPy · Matplotlib · Seaborn · Scikit-learn
 
 ### 📂 Доступ к полному коду
 Полный код проекта (Jupyter Notebook) и исходные данные предоставляются по запросу.
+
 📩 **Запрос на доступ:** lenav.net2005@gmail.com
 
 ### 👩‍💻 Автор
