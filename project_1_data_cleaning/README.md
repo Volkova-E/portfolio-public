@@ -59,11 +59,10 @@
 ### 🛠 Tech Stack
 Python · Pandas · NumPy · Matplotlib · Seaborn · Scikit-learn
 
-### 📁 Файлы в проекте
-- `data.xlsx` — исходные данные
-- `data_cleaning.ipynb` — Jupyter Notebook с кодом
-- `README.md` — описание проекта
+### 📂 Доступ к полному коду
+Полный код проекта (Jupyter Notebook) и исходные данные предоставляются по запросу.
+📩 **Запрос на доступ:** lenav.net2005@gmail.com
 
 ### 👩‍💻 Автор
-Елена Волкова
+Елена В.
 
