@@ -10,7 +10,8 @@
 - Преобразование и кодирование категориальных признаков, расчет новых признаков 
 - Визуализация распределений, корреляционный анализ, региональные профили
 - Выделен премиальный сегмент, рекомендованы целевые группы для бизнеса.
-Стек: Python (Pandas, NumPy, Matplotlib, Seaborn), Jupyter Notebook
+
+**Стек:** Python (Pandas, NumPy, Matplotlib, Seaborn), Jupyter Notebook
 
 🔗 [Подробнее](project_1_EDA_and_data_clining/README.md)
 
